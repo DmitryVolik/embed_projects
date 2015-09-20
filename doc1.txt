@@ -1,9 +1,5 @@
 git ok
 
-git work
-
-git go
-
 git dsf
 
 
